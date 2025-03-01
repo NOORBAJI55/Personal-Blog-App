@@ -3,7 +3,6 @@ A Flask-based blog application that allows users to create, view, and update blo
 
 # 🚀 Features
 ✅ Create and store blog stories 📜
-
 ✅ View all published stories 🧐
 
 ✅ Update existing blog posts ✏️
