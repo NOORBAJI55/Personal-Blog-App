@@ -24,11 +24,18 @@ Database: SQLite 🗄️
 
 /Personal-Blog-App
 │── blog.py                 # Flask app
+
 │── base.sqlite3             # SQLite database
+
 │── templates/
+
 │   ├── main.html            # Main page
+
 │   ├── home.html            # Add new story page
+
 │   ├── stories.html         # View all stories
+
 │   ├── story.html           # Individual story page
+
 │   ├── update_story.html    # Update story page
 
