@@ -29,12 +29,12 @@ Database: SQLite 🗄️
 
 │── templates/
 
-│       ├── main.html            # Main page
+│      	 ├── main.html            # Main page
 
-│       ├── home.html            # Add new story page
+│     	  ├── home.html            # Add new story page
 
-│       ├── stories.html         # View all stories
+│    	   ├── stories.html         # View all stories
 
-│       ├── story.html           # Individual story page
-
-│       ├── update_story.html    # Update story page
+│    	   ├── story.html           # Individual story page
+	
+│   	    ├── update_story.html    # Update story page
