@@ -1,20 +1,20 @@
-📖 Personal Blog Application
+ # 📖 Personal Blog Application
 A Flask-based blog application that allows users to create, view, and update blog stories. Built with Flask, SQLite, and HTML/CSS, this app provides a simple and interactive interface for managing personal blog posts.
 
-🚀 Features
+#🚀 Features
 ✅ Create and store blog stories 📜
 ✅ View all published stories 🧐
 ✅ Update existing blog posts ✏️
 ✅ Simple and user-friendly UI 🎨
 ✅ SQLite database for easy data management 🗄️
 
-🛠️ Tech Stack
+#🛠️ Tech Stack
 Backend: Flask (Python) 🐍
 Frontend: HTML, CSS 🎨
 Database: SQLite 🗄️
 
 
-📂 Project Structure
+#📂 Project Structure
 /Personal-Blog-App
 │── blog.py                 # Flask app
 │── base.sqlite3             # SQLite database
