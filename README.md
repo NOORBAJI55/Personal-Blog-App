@@ -3,6 +3,7 @@ A Flask-based blog application that allows users to create, view, and update blo
 
 # 🚀 Features
 ✅ Create and store blog stories 📜
+
 ✅ View all published stories 🧐
 
 ✅ Update existing blog posts ✏️
@@ -21,11 +22,19 @@ Database: SQLite 🗄️
 
 # 📂 Project Structure
 /Personal-Blog-App
+
 │── blog.py                 # Flask app
+
 │── base.sqlite3             # SQLite database
+
 │── templates/
+
 │   ├── main.html            # Main page
+
 │   ├── home.html            # Add new story page
+
 │   ├── stories.html         # View all stories
+
 │   ├── story.html           # Individual story page
+
 │   ├── update_story.html    # Update story page
