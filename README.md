@@ -23,6 +23,7 @@ Database: SQLite 🗄️
 # 📂 Project Structure
 
 /Personal-Blog-App
+
 │── blog.py                 # Flask app
 
 │── base.sqlite3             # SQLite database
