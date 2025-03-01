@@ -3,14 +3,20 @@ A Flask-based blog application that allows users to create, view, and update blo
 
 # 🚀 Features
 ✅ Create and store blog stories 📜
+
 ✅ View all published stories 🧐
+
 ✅ Update existing blog posts ✏️
+
 ✅ Simple and user-friendly UI 🎨
+
 ✅ SQLite database for easy data management 🗄️
 
 # 🛠️ Tech Stack
 Backend: Flask (Python) 🐍
+
 Frontend: HTML, CSS 🎨
+
 Database: SQLite 🗄️
 
 
